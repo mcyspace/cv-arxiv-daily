@@ -10,6 +10,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#vuldata>Vuldata</a></li>
   </ol>
 </details>
 
@@ -4164,6 +4165,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+
+## Vuldata
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
+|**2025-01-22**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
+|**2025-01-22**|**On the Service Rate Region of Reed-Muller Codes**|Hoang Ly et.al.|[2501.13105](http://arxiv.org/abs/2501.13105)|null|
+|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
+|**2025-01-22**|**Achievability of Covert Quantum Communication**|Evan J. D. Anderson et.al.|[2501.13103](http://arxiv.org/abs/2501.13103)|null|
+|**2025-01-22**|**The Machine Learning to reconstruct GRB lightcurves**|Maria Giovanna Dainotti et.al.|[2501.13102](http://arxiv.org/abs/2501.13102)|null|
+|**2025-01-22**|**Simulating quantum circuits with arbitrary local noise using Pauli Propagation**|Armando Angrisani et.al.|[2501.13101](http://arxiv.org/abs/2501.13101)|null|
+|**2025-01-22**|**A Rate-Distortion Framework for Summarization**|Enes Arda et.al.|[2501.13100](http://arxiv.org/abs/2501.13100)|null|
+|**2025-01-22**|**Which Sensor to Observe? Timely Tracking of a Joint Markov Source with Model Predictive Control**|Ismail Cosandal et.al.|[2501.13099](http://arxiv.org/abs/2501.13099)|null|
+|**2025-01-22**|**Is there a conflict between causality and diamagnetism?**|Niclas Westerberg et.al.|[2501.13098](http://arxiv.org/abs/2501.13098)|null|
 
 <p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
 
