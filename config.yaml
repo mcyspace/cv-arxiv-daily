@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Vul Data":
-        filters:["Vulnerability", "Dataset", "Software Security", "Automated", "Fixes", "Machine Learning", "Open-Source", "Common Vulnerabilities and Exposures","CVE", "Deep Learning", "Security Patches", "Data Quality", "Commit", "Commit Data", "Repository","and"]
+    "Vuldata": 
+        filters: ["and", "data"]
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
