@@ -38,4 +38,4 @@ keywords:
     "NeRF":
         filters: ["NeRF"]
     "Vuldata": 
-        filters: ["and", "data"]
+        filters: ["Vulnerability", "Dataset", "Software Security", "Automated", "Fixes", "Machine Learning", "CVE", "Security Patches", "Data Quality", "Commit", "Commit Data", "Repository"]
