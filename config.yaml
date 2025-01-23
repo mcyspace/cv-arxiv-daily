@@ -37,5 +37,3 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
-    "Vuldata": 
-        filters: ["and", "data"]
