@@ -22,8 +22,6 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Vuldata": 
-        filters: ["and", "data"]
     "SLAM": 
         filters: ["SLAM", "Visual Odometry"]
     "SFM":
@@ -39,3 +37,5 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "Vuldata": 
+        filters: ["and", "data"]
