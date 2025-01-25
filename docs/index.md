@@ -2,19 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.01.23
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
 |**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
 |**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950](http://arxiv.org/abs/2501.10950)|null|
-|**2025-01-20**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600](http://arxiv.org/abs/2501.09600)|null|
+|**2025-01-23**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600](http://arxiv.org/abs/2501.09600)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490](http://arxiv.org/abs/2501.09490)|null|
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160](http://arxiv.org/abs/2501.09160)|null|
@@ -2697,6 +2699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
 |**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
@@ -4151,6 +4154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
+|**2025-01-23**|**Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**|Hao Dong et.al.|[2501.13924](http://arxiv.org/abs/2501.13924)|**[link](https://github.com/donghao51/aeo)**|
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919](http://arxiv.org/abs/2501.13919)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916](http://arxiv.org/abs/2501.13916)|null|
+|**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
+|**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
+|**2025-01-23**|**Localization and wall-crossing of giant graviton expansions in AdS $_5$**|Giorgos Eleftheriou et.al.|[2501.13910](http://arxiv.org/abs/2501.13910)|null|
+|**2025-01-23**|**Graph Neural Controlled Differential Equations For Collaborative Filtering**|Ke Xu et.al.|[2501.13908](http://arxiv.org/abs/2501.13908)|null|
 |**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
 |**2025-01-22**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
 |**2025-01-22**|**On the Service Rate Region of Reed-Muller Codes**|Hoang Ly et.al.|[2501.13105](http://arxiv.org/abs/2501.13105)|null|
