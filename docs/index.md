@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-28**|**SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios**|Yinqi Chen et.al.|[2501.16754](http://arxiv.org/abs/2501.16754)|null|
 |**2025-01-27**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|**[link](https://github.com/jakemclaughlin6/vlma)**|
 |**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
@@ -2151,6 +2152,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453](http://arxiv.org/abs/2501.18453)|null|
+|**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361](http://arxiv.org/abs/2501.18361)|null|
+|**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844](http://arxiv.org/abs/2501.11844)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
@@ -2715,6 +2719,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
@@ -4173,6 +4178,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|**[link](https://github.com/vc-bonn/rosa)**|
+|**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
+|**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585](http://arxiv.org/abs/2501.18585)|null|
+|**2025-01-30**|**Accuracy and Robustness of Weight-Balancing Methods for Training PINNs**|Matthieu Barreau et.al.|[2501.18582](http://arxiv.org/abs/2501.18582)|null|
+|**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581](http://arxiv.org/abs/2501.18581)|null|
+|**2025-01-30**|**Node Classification and Search on the Rubik's Cube Graph with GNNs**|Alessandro Barro et.al.|[2501.18580](http://arxiv.org/abs/2501.18580)|null|
+|**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579](http://arxiv.org/abs/2501.18579)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
 |**2025-01-29**|**rEGGression: an Interactive and Agnostic Tool for the Exploration of Symbolic Regression Models**|Fabricio Olivetti de Franca et.al.|[2501.17859](http://arxiv.org/abs/2501.17859)|null|
 |**2025-01-29**|**Improving Your Model Ranking on Chatbot Arena by Vote Rigging**|Rui Min et.al.|[2501.17858](http://arxiv.org/abs/2501.17858)|**[link](https://github.com/sail-sg/rigging-chatbotarena)**|
