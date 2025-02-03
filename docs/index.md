@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.01
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4179,7 +4179,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596](http://arxiv.org/abs/2501.18596)|null|
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|**[link](https://github.com/vc-bonn/rosa)**|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
 |**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592](http://arxiv.org/abs/2501.18592)|**[link](https://github.com/donghao51/awesome-multimodal-adaptation)**|
