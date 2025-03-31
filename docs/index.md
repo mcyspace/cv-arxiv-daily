@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.29
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1254,7 +1254,7 @@ layout: default
 |**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772](http://arxiv.org/abs/2503.21772)|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|null|
-|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|null|
+|**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
@@ -2966,7 +2966,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
-|**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338](http://arxiv.org/abs/2503.21338)|null|
 |**2025-03-25**|**CoMapGS: Covisibility Map-based Gaussian Splatting for Sparse Novel View Synthesis**|Youngkyoon Jang et.al.|[2503.20998](http://arxiv.org/abs/2503.20998)|null|
 |**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
@@ -4508,12 +4508,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|null|
+|**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**X $^{2}$ -Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779](http://arxiv.org/abs/2503.21779)|null|
-|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|null|
-|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|null|
+|**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|**[link](https://github.com/jiahao000/vict)**|
+|**2025-03-27**|**Video-R1: Reinforcing Video Reasoning in MLLMs**|Kaituo Feng et.al.|[2503.21776](http://arxiv.org/abs/2503.21776)|**[link](https://github.com/tulerfeng/video-r1)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775](http://arxiv.org/abs/2503.21775)|null|
-|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|null|
+|**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767](http://arxiv.org/abs/2503.21767)|null|
 |**2025-03-27**|**Identification and estimation of treatment effects in a linear factor model with fixed number of time periods**|Koki Fusejima et.al.|[2503.21763](http://arxiv.org/abs/2503.21763)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761](http://arxiv.org/abs/2503.21761)|null|
