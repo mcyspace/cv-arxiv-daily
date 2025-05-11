@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.09
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -942,6 +942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-06**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -949,7 +950,7 @@ layout: default
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866](http://arxiv.org/abs/2505.00866)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
-|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
+|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|**[link](https://github.com/cvg/mpsfm)**|
 |**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
 |**2025-04-23**|**A Low-Cost Photogrammetry System for 3D Plant Modeling and Phenotyping**|Joe Hrzich et.al.|[2504.16840](http://arxiv.org/abs/2504.16840)|null|
@@ -3116,6 +3117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-04**|**HandOcc: NeRF-based Hand Rendering with Occupancy Networks**|Maksym Ivashechkin et.al.|[2505.02079](http://arxiv.org/abs/2505.02079)|null|
 |**2025-05-04**|**Learning Heterogeneous Mixture of Scene Experts for Large-scale Neural Radiance Fields**|Zhenxing Mi et.al.|[2505.02005](http://arxiv.org/abs/2505.02005)|**[link](https://github.com/MiZhenxing/Switch-NeRF)**|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
@@ -4714,6 +4716,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**Facets of Disparate Impact: Evaluating Legally Consistent Bias in Machine Learning**|Jarren Briscoe et.al.|[2505.05471](http://arxiv.org/abs/2505.05471)|null|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
+|**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/abs/2505.05459)|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
+|**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452](http://arxiv.org/abs/2505.05452)|null|
 |**2025-05-07**|**Is the end of Insight in Sight ?**|Jean-Michel Tucny et.al.|[2505.04627](http://arxiv.org/abs/2505.04627)|null|
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer**|Jingwen Ye et.al.|[2505.04622](http://arxiv.org/abs/2505.04622)|null|
