@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4716,6 +4716,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$**|Mariona Badenas-Agusti et.al.|[2505.06228](http://arxiv.org/abs/2505.06228)|null|
+|**2025-05-09**|**Anymate: A Dataset and Baselines for Learning 3D Object Rigging**|Yufan Deng et.al.|[2505.06227](http://arxiv.org/abs/2505.06227)|null|
+|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
+|**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
+|**2025-05-09**|**Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment**|Matthew Brun et.al.|[2505.06211](http://arxiv.org/abs/2505.06211)|null|
+|**2025-05-09**|**Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation**|Diego Adame et.al.|[2505.06210](http://arxiv.org/abs/2505.06210)|null|
+|**2025-05-09**|**Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment**|Muhy Eddin Za'ter et.al.|[2505.06207](http://arxiv.org/abs/2505.06207)|null|
+|**2025-05-09**|**Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**|Hiroki Hasegawa et.al.|[2505.06203](http://arxiv.org/abs/2505.06203)|null|
+|**2025-05-09**|**On Optimal Batch Size in Coded Computing**|Swapnil Saha et.al.|[2505.06199](http://arxiv.org/abs/2505.06199)|null|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiayuan Mao et.al.|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
 |**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
